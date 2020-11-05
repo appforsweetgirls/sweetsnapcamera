@@ -15,7 +15,7 @@
   "showEditorBannerTip": "0: Hide, 1: Show Banner, 2: Show Smart Banner, other: use default",
   "idAds": [
     {
-      "packageName": "sam.sweet.snap.beauty.snap.camera.selfie.camera",
+      "packageName": "snap.sweet.beauty.camera.selfie.camera",
       "homePageAdType": "fan",
       "mainAdType": "fan",
       "bannerFAN": "0000000000000_00000000000000000",
